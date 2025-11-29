@@ -43,14 +43,14 @@ Abaixo, o registro detalhado das atividades realizadas às sextas-feiras, inclui
 | Data | Tipo | Atividade / Tópico Abordado | Evidências |
 | :--- | :--- | :--- | :--- |
 | **22/08** | **Começo** | **Setup e Acordos:** Definição da ementa e configuração do ambiente (Instalação do Go + VS Code). | *Presencial* |
-| **29/08** | **Teórica** | **Sintaxe e Variáveis:** Diferença entre declaração explícita (`var`) e implícita (`:=`). Recebimento da **Lista (26 Exercícios)** para prática contínua. | [Ver Lista](#-4-lista-cumulativa-2908) |
+| **29/08** | **Teórica** | **Sintaxe e Variáveis:** Diferença entre declaração explícita (`var`) e implícita (`:=`). Recebimento da **Lista (26 Exercícios)** para prática contínua. | [**Ver Lista**](#lista) |
 | **05/09** | **Prática** | **Desenvolvimento Autônomo:** Resolução dos primeiros exercícios da lista. | [Códigos](./src/lista) |
-| **12/09** | **Apresentação** | **Fundamentos e Comparativos:** Aula magna sobre histórico, Garbage Collector e arquitetura. **Atividade:** Apresentação em grupos comparando Go vs. Outras Linguagens. | [Ver Análise](#-3-relatório-do-Apresentação-1209) |
+| **12/09** | **Apresentação** | **Fundamentos e Comparativos:** Aula magna sobre histórico, Garbage Collector e arquitetura. **Atividade:** Apresentação em grupos comparando Go vs. Outras Linguagens. | [**Ver Análise**](#apresentacao) |
 | **19/09** | **Evento** | **Semana de Administração:** Participação em palestras interdisciplinares (Liberado da aula técnica). | *Presença* |
 | **26/09** | **Mentoria** | **Checkpoint:** Reunião individual com o professor para validar o andamento do portfólio e exercícios realizados. | *Presencial* |
 | **03/10** | **Prática** | **Algoritmos Complexos:** Foco na resolução de exercícios avançados da Lista (ex: Torres de Hanói e Recursividade). | [Códigos](./src/lista) |
 | **10/10** | **Laboratório** | **Maratona "Go By Example":** Início da bateria de testes baseada na documentação oficial (conforme indicado na aula de 12/09). | [Códigos](./src/go-by-example) |
-| **17/10** | **Erro/Teste** | **Desafio de Imagem PPM (P3):** Tentativa de gerar um arquivo *Portable Pixel Map* (formato ASCII P3) via matriz de inteiros. **Falha Técnica:** Devido à falta de ambiente local configurado no laboratório, utilizamos o *Go Playground*. O ambiente "Sandbox" limitou a saída de texto e impediu a criação do arquivo `.ppm` em disco. | [Tentativa](./src/desafio-imagem) |
+| **17/10** | **Erro/Teste** | **Desafio de Imagem PPM (P3):** Tentativa de gerar um arquivo *Portable Pixel Map* (formato ASCII P3) via matriz de inteiros. **Falha Técnica:** Devido à falta de ambiente local configurado no laboratório, utilizamos o *Go Playground*. O ambiente "Sandbox" limitou a saída de texto e impediu a criação do arquivo `.ppm` em disco. | [Tentativa](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/desafio-imagem/ppm.go) |
 | **24/10** | **Prática** | **Continuidade:** Sequência nos exercícios do *Go By Example* devido à persistência de problemas de ambiente. | [Códigos](./src/go-by-example) |
 | **31/10** | **Sem Aula** | Não houve aula. Estudo individual. | - |
 | **07/11** | **Evento** | **Dia da Consciência Negra:** Apresentações culturais no campus. | *Presença* |
@@ -59,6 +59,7 @@ Abaixo, o registro detalhado das atividades realizadas às sextas-feiras, inclui
 | **28/11** | **Entrega** | Finalização e entrega do Portfólio Digital. | **Entrega** |
 
 ---
+<div id="apresentacao"></div>
 
 ## 🗣️ 3. Relatório da Apresentação (12/09)
 Nesta data, atuei como **observador analítico** das apresentações dos grupos, registrando os oradores principais e os pontos técnicos discutidos.
@@ -81,6 +82,7 @@ Nesta data, atuei como **observador analítico** das apresentações dos grupos,
     * **Nildemar** conduziu a apresentação (com apoio de leitura), mas pontuou bem as vantagens de performance embutida e pacotes de segurança nativos do Go em comparação a certas limitações do Python.
 
 ---
+<div id="lista"></div>
 
 ## 📝 4. Lista Cumulativa (29/08)
 Esta lista serviu como base de atividades para os dias de estudo autônomo, cobrindo a meta de exercícios semanais.
@@ -88,32 +90,32 @@ Esta lista serviu como base de atividades para os dias de estudo autônomo, cobr
 <details>
 <summary><b>🔻 Clique para expandir os 26 Exercícios Desenvolvidos</b></summary>
 
-1.  **Soma:** Algoritmo que soma dois números inteiros.
-2.  **Divisão:** Divisão de dois números inteiros.
-3.  **Sucessor/Antecessor:** Input de inteiro e output de vizinhos.
-4.  **Verificação Numérica:** Checar se é Ímpar, Par, Positivo ou Negativo.
-5.  **Números Primos:** Verificação matemática.
-6.  **Ordenação (Sort):** Sequência numérica.
-7.  **Ordenação de Caracteres:** Sequência ascendente.
-8.  **Árvore de Decisão:** Baseada em sequência de respostas.
-9.  **Ponteiros:** Imprimir variável e seu endereço de memória (`&var`).
-10. **Torres de Hanói:** Resolução do quebra-cabeça (Recursividade).
-11. **Dia da Semana:** Algoritmo matemático baseado na data de nascimento.
-12. **Igualdade Booleana:** Retorno True/False.
-13. **Estatística:** Moda de uma sequência.
-14. **Palíndromos:** Verificação de frases/palavras (ex: "Arara").
-15. **Geometria:** Área do Retângulo.
-16. **Conversor:** Unidades de temperatura (Celsius/Fahrenheit).
-17. **Jogo:** Simulação de Adivinhação.
-18. **Desafio JPEG (Matrizes):** Tentativa de converter matrizes de inteiros (8bits) em arquivo de imagem (Vide relatório de erro dia 17/10).
-19. **Contador de Letras:** Vogais e Consoantes.
-20. **Padrões:** Ocorrência de uma palavra específica num texto.
-21. **Fatorial:** Cálculo de N!.
-22. **Hello World:** Revisão de estrutura básica.
-23. **Saúde:** Cálculo de IMC (Padrão Brasileiro).
-24. **Matemática:** Mínimo Múltiplo Comum (MMC).
-25. **Média:** Cálculo entre dois ou mais números.
-26. **Bônus (Algoritmo Secreto):** Algoritmo Evolutivo Genético.
+1.  [**Soma**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio01.go) Algoritmo que soma dois números inteiros.
+2.  [**Divisão**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio02.go) Divisão de dois números inteiros.
+3.  [**Sucessor/Antecessor**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio03.go) Input de inteiro e output de vizinhos.
+4.  [**Verificação Numérica**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio04.go) Checar se é Ímpar, Par, Positivo ou Negativo.
+5.  [**Números Primos**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio05.go) Verificação matemática.
+6.  [**Ordenação (Sort)**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio06.go) Sequência numérica.
+7.  [**Ordenação de Caracteres**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio07.go) Sequência ascendente.
+8.  [**Árvore de Decisão**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio08.go) Baseada em sequência de respostas.
+9.  [**Ponteiros**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio09.go) Imprimir variável e seu endereço de memória (`&var`).
+10. [**Torres de Hanói**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio10.go) Resolução do quebra-cabeça (Recursividade).
+11. [**Dia da Semana**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio11.go) Algoritmo matemático baseado na data de nascimento.
+12. [**Igualdade Booleana**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio12.go) Retorno True/False.
+13. [**Estatística**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio13.go) Moda de uma sequência.
+14. [**Palíndromos**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio14.go) Verificação de frases/palavras (ex: "Arara").
+15. [**Geometria**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio15.go) Área do Retângulo.
+16. [**Conversor**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio16.go) Unidades de temperatura (Celsius/Fahrenheit).
+17. [**Jogo**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio17.go) Simulação de Adivinhação.
+18. [**Desafio JPEG (Matrizes)**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio18.go) Escreva um algoritmo que receba três matrizes de inteiros (uint8) e gere um arquivo de imagem JPEG.
+19. [**Contador de Letras**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio19.go) Vogais e Consoantes.
+20. [**Padrões**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio20.go) Ocorrência de uma palavra específica num texto.
+21. [**Fatorial**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio21.go) Cálculo de N!.
+22. [**Hello World**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio22.go) Revisão de estrutura básica.
+23. [**Saúde**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio23.go) Cálculo de IMC (Padrão Brasileiro).
+24. [**Matemática**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio24.go) Mínimo Múltiplo Comum (MMC).
+25. [**Média**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio25.go) Cálculo entre dois ou mais números.
+26. [**Bônus (Algoritmo Secreto)**](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/lista/exercicio26.go) Algoritmo Evolutivo Genético.
 
 </details>
 
