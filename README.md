@@ -1,7 +1,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="70%">
-      <h1>Portfólio de Tópicos Especiais em Linguagem de Programação(Go)</h1>
+      <h1>Portfólio de Tópicos Especiais em Linguagem de Programação</h1>
       <p>
         <img src="https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go">
         <img src="https://img.shields.io/badge/Curso-ADS-blue">
@@ -10,6 +10,8 @@
       </p>
       <blockquote>
         <b>Aluno:</b> Dirceu Alves Neto<br>
+        <b>Professor:</b> Alex Fernando de Araujo<br>
+        <b>Unidade Curricular:</b> Tópicos Especiais em Linguagem de Programação<br>
         <b>Instituição:</b> Instituto Federal de Mato Grosso do Sul<br>
         <b>Data de Início:</b> 22/08/2025<br>
         <b>Entrega:</b> 28/11/2025
@@ -24,7 +26,7 @@
 <br>
 
 ## 📖 1. O Contrato Pedagógico (22/08)
-Este documento sintetiza a jornada de aprendizado na disciplina **Eletiva** (Tópicos Especiais em Linguagem de Programação).
+Este documento sintetiza a jornada de aprendizado na disciplina **Tópicos Especiais em Linguagem de Programação**.
 
 **Definições da Aula Inaugural:**
 * **Objetivo:** Compreender os fundamentos da linguagem para, posteriormente, criar aplicações com processamento concorrente.
@@ -58,25 +60,25 @@ Abaixo, o registro detalhado das atividades realizadas às sextas-feiras, inclui
 
 ---
 
-## 🗣️ 3. Relatório do Apresentação (12/09)
-Nesta data, atuei como **observador analítico** das apresentações dos grupos, registrando as diferenças técnicas entre Go, Python e JavaScript discutidas em sala.
+## 🗣️ 3. Relatório da Apresentação (12/09)
+Nesta data, atuei como **observador analítico** das apresentações dos grupos, registrando os oradores principais e os pontos técnicos discutidos.
 
 ### Destaques das Apresentações:
 
 * **Grupo 1: Concorrência (Henrique, Nathan, Azam)**
-    * O grupo focou na leitura da defesa teórica sobre como o Go lida nativamente com concorrência, contrastando com o modelo do Python.
+    * **Nathan** focou quase integralmente na leitura da defesa teórica sobre concorrência. Houve uma observação do professor (Alex) sobre a clareza da exposição.
 
 * **Grupo 2: Simplicidade e Desempenho (João, Cazuo, Maysson)**
-    * Discutiram a filosofia da linguagem. Um ponto interessante levantado foi a "simplicidade" como ferramenta de manutenção de código, embora o grupo tenha demonstrado insegurança em alguns termos técnicos.
+    * **João** explicou bem os conceitos de simplicidade do Go, embora tenha demonstrado certa insegurança e prolongado a explicação em alguns momentos (enrolou um pouco).
 
 * **Grupo 3: Compilação e Tipagem (Rafael, Vitor, Lucas)**
-    * **Destaque Técnico:** O grupo explicou com clareza a diferença de tempo de execução entre linguagens compiladas (Go) e interpretadas. Enfatizaram como a tipagem estática previne erros em tempo de compilação.
+    * **Rafael** Realizou uma explicação clara, detalhando bem as diferenças de tempo de execução e tipagem entre as linguagens, demonstrando domínio dos termos.
 
 * **Grupo 4: Garbage Collector (Gêmeos, Jonathan)**
-    * O aluno Jonathan utilizou a lousa para ilustrar o mecanismo do Coletor de Lixo, demonstrando visualmente como o Go limpa endereços de memória não utilizados automaticamente.
+    * **Jonathan** assumiu o protagonismo utilizando a lousa (canetão) para explicar visualmente os mecanismos do Coletor de Lixo, citando exemplos de outros grupos. A explicação foi didática e completa, sem necessidade de intervenção do professor.
 
 * **Grupo 5: Biblioteca Padrão (Nildemar, Rayane, Misael)**
-    * Ressaltaram que o Go já vem com "baterias inclusas" (Standard Library robusta), dependendo menos de pacotes externos para tarefas básicas de segurança e rede se comparado ao Python.
+    * **Nildemar** conduziu a apresentação (com apoio de leitura), mas pontuou bem as vantagens de performance embutida e pacotes de segurança nativos do Go em comparação a certas limitações do Python.
 
 ---
 
@@ -120,7 +122,7 @@ Esta lista serviu como base de atividades para os dias de estudo autônomo, cobr
 ## 💻 5. Ambiente de Desenvolvimento
 Conforme requisito de documentação, abaixo está o setup utilizado durante o semestre:
 
-* **Linguagem:** Go (Golang) versão 1.23+
+* **Linguagem:]** [Go](https://go.dev/) (Golang) versão 1.25.1
 * **Editor:** VS Code
 * **Extensões:** *Go Team at Google* (IntelliSense, Linting)
 * **Teste de Instalação:**
