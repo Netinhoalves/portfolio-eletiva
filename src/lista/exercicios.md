@@ -1,0 +1,28 @@
+# Atividades do dia 29 de Agosto de 2025
+
+- Exercício 1: Algoritmo que soma dois números inteiros
+- Exercício 2: Divisão de dois números inteiros
+- Exercício 3: Faça um algoritmo que receba um número inteiro e imprima o seu sucessor e antecessor
+- Exercício 4: Verificar se um número qualquer é ímpar, par, positivo ou negativo
+- Exercício 5: Verificar se um número qualquer é primo ou não
+- Exercício 6: Algoritmo que faça a ordenação de uma sequência numérica
+- Exercício 7: Ordenação de uma sequência de caracteres em ordem ascendente
+- Exercício 8: Implemente uma árvore de decisão baseada em uma sequência de respostas
+- Exercício 9: Imprimir o valor e o endereço de memória de uma variável
+- Exercício 10: Faça um algoritmo que resolva o problema das Torres de Hanói
+- Exercício 11: Implemente um código que calcule o dia da semana de uma data de nascimento
+- Exercício 12: Escreva um algoritmo que retorne um valor booleano indicando a igualdade entre dois valores
+- Exercício 13: Escreva um algoritmo que retorne a moda de uma sequência numérica
+- Exercício 14: Escreva um algoritmo que verifique se uma sequência de caracteres forma um palíndromo
+- Exercício 15: Escreva um algoritmo que calcule a área de um retângulo
+- Exercício 16: Escreva um algoritmo que faça a conversão de unidades de temperatura
+- Exercício 17: Escreva um algoritmo que simule um jogo de adivinhação
+- Exercício 18: Escreva um algoritmo que receba três matrizes de inteiros (uint8) e gere um arquivo de imagem JPEG
+- Exercício 19: Escreva um algoritmo que conte a quantidade de vogais e consoantes de um texto
+- Exercício 20: Escreva um algoritmo que retorne a quantidade de ocorrências de uma palavra em um texto
+- Exercício 21: Escreva um algoritmo que calcule o fatorial de um número N
+- Exercício 22: Escreva um algoritmo que imprima "Hello, World!"
+- Exercício 23: Escreva um algoritmo que calcule o IMC (Índice de Massa Corporal)
+- Exercício 24: Escreva um algoritmo que calcule o MMC (Mínimo Múltiplo Comum)
+- Exercício 25: Escreva um algoritmo que calcule a média entre dois ou mais números
+- Exercício 26: Bônus (Algoritmo Secreto): Algoritmo Evolutivo Genético.
