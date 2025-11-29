@@ -1,29 +1,36 @@
-# Portfólio de Aprendizagem: Linguagem Go (Eletiva)
+<table border="0" width="100%">
+  <tr>
+    <td width="70%">
+      <h1>Portfólio de Tópicos Especiais em Linguagem de Programação(Go)</h1>
+      <p>
+        <img src="https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go">
+        <img src="https://img.shields.io/badge/Curso-ADS-blue">
+        <img src="https://img.shields.io/badge/Semestre-5º-orange">
+        <img src="https://img.shields.io/badge/Status-Entregue-success">
+      </p>
+      <blockquote>
+        <b>Aluno:</b> Dirceu Alves Neto<br>
+        <b>Instituição:</b> Instituto Federal de Mato Grosso do Sul<br>
+        <b>Data de Início:</b> 22/08/2025<br>
+        <b>Entrega:</b> 28/11/2025
+      </blockquote>
+    </td>
+    <td width="30%" align="center">
+      <img src="./assets/perfil.jpeg" width="150" alt="Foto de Perfil" style="border-radius: 5%;">
+    </td>
+  </tr>
+</table>
 
-<img align="right" src="./assets/perfil.jpg" width="120" alt="Foto de Perfil">
-
-![Go Version](https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go)
-![Curso](https://img.shields.io/badge/Curso-ADS-blue)
-![Semestre](https://img.shields.io/badge/Semestre-5º-orange)
-![Status](https://img.shields.io/badge/Status-Entregue-success)
-
-> **Aluno:** Dirceu Alves Neto
-> **Instituição:** Instituto Federal de Mato Grosso do Sul
-> **Data de Início:** 22/08/2025
-> **Entrega do Portfólio:** 28/11/2025
-
-<br clear="left"/>
-
----
+<br>
 
 ## 📖 1. O Contrato Pedagógico (22/08)
-Este documento sintetiza a jornada de aprendizado na disciplina **Eletiva**.
+Este documento sintetiza a jornada de aprendizado na disciplina **Eletiva** (Tópicos Especiais em Linguagem de Programação).
 
 **Definições da Aula Inaugural:**
 * **Objetivo:** Compreender os fundamentos da linguagem para, posteriormente, criar aplicações com processamento concorrente.
-* **Metodologia:** Foco total na prática.
+* **Metodologia:** Foco total na prática e experimentação.
 * **Acordo de Produção:** Foi estabelecida uma meta média de **10 exercícios semanais**.
-* **Avaliação:** Este portfólio compõe a 1ª Nota, documentando a evolução cronológica, instalações e desafios técnicos.
+* **Avaliação:** Este portfólio compõe a 1ª Nota, documentando a evolução cronológica, instalações e desafios técnicos enfrentados.
 
 ---
 
