@@ -49,9 +49,9 @@ Abaixo, o registro detalhado das atividades realizadas às sextas-feiras, inclui
 | **19/09** | **Evento** | **Semana de Administração:** Participação em palestras interdisciplinares (Liberado da aula técnica). | *Presença* |
 | **26/09** | **Mentoria** | **Checkpoint:** Reunião individual com o professor para validar o andamento do portfólio e exercícios realizados. | *Presencial* |
 | **03/10** | **Prática** | **Algoritmos Complexos:** Foco na resolução de exercícios avançados da Lista (ex: Torres de Hanói e Recursividade). | [Códigos](https://github.com/Netinhoalves/portfolio-eletiva/tree/main/src/lista) |
-| **10/10** | **Laboratório** | **Maratona "Go By Example":** Início da bateria de testes baseada na documentação oficial (conforme indicado na aula de 12/09). | [Códigos](./src/go-by-example) |
+| **10/10** | **Laboratório** | **Maratona "Go By Example":** Início da bateria de testes baseada na documentação oficial (conforme indicado na aula de 12/09). | [Códigos](https://github.com/Netinhoalves/portfolio-eletiva/tree/main/src/go-by-example) |
 | **17/10** | **Erro/Teste** | **Desafio de Imagem PPM (P3):** Tentativa de gerar um arquivo *Portable Pixel Map* (formato ASCII P3) via matriz de inteiros. **Falha Técnica:** Devido à falta de ambiente local configurado no laboratório, utilizamos o *Go Playground*. O ambiente "Sandbox" limitou a saída de texto e impediu a criação do arquivo `.ppm` em disco. | [Tentativa](https://github.com/Netinhoalves/portfolio-eletiva/blob/main/src/desafio-imagem/ppm.go) |
-| **24/10** | **Prática** | **Continuidade:** Sequência nos exercícios do *Go By Example* devido à persistência de problemas de ambiente. | [Códigos](./src/go-by-example) |
+| **24/10** | **Prática** | **Continuidade:** Sequência nos exercícios do *Go By Example* devido à persistência de problemas de ambiente. | [Códigos](https://github.com/Netinhoalves/portfolio-eletiva/tree/main/src/go-by-example) |
 | **31/10** | **Sem Aula** | Não houve aula. Estudo individual. | - |
 | **07/11** | **Evento** | **Dia da Consciência Negra:** Apresentações culturais no campus. | *Presença* |
 | **14/11** | **Sem Aula** | **Colação de Grau** | - |
